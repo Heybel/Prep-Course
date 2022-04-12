@@ -24,11 +24,12 @@
 
 ## Cómo usar SLACK
 
-<div class="iframeContainer">
+<div class="hola">
   <iframe src="https://player.vimeo.com/video/548902078?h=e82a766bab&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1264" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Prep Course - Intro a Slack"></iframe>
 </div>
 
-> Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicación!
+> Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicacrggahth
+
 
 ## Editores de Texto
 
